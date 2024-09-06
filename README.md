@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tommy 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=TranThang-2804&color=blue)
 
 ## About Me
 
@@ -21,11 +21,11 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranThang-2804&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranThang-2804&layout=compact&theme=radical)
 
 ## Connect with me
 
@@ -40,15 +40,15 @@
 
 ## Projects
 
-- [Project 1](https://github.com/yourusername/project1): Description of project 1
-- [Project 2](https://github.com/yourusername/project2): Description of project 2
+- [Project 1](https://github.com/TranThang-2804/project1): Description of project 1
+- [Project 2](https://github.com/TranThang-2804/project2): Description of project 2
 
 ## Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TranThang-2804&theme=radical)
 
 ## Support
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/TranThang-2804)
