@@ -31,7 +31,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [Personal Website/Blog](https://tommytran.me)
 
 ## Recent Activity
 
@@ -40,8 +40,7 @@
 
 ## Projects
 
-- [Project 1](https://github.com/TranThang-2804/project1): Description of project 1
-- [Project 2](https://github.com/TranThang-2804/project2): Description of project 2
+- [Neovim Configuration](https://github.com/TranThang-2804/dotfiles): My neovim configuration with Nix
 
 ## Contributions
 
@@ -51,4 +50,4 @@
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/TranThang-2804)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/imtommy)
