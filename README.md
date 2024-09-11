@@ -55,8 +55,8 @@
 
 ## 🌐 Connect with me
 
-- ![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/tranthangportfolio/)
-- ![Website](https://img.icons8.com/color/30/000000/domain--v1.png) [Personal Website/Blog](https://tommytran.me)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthangportfolio/)
+- [![Website](https://img.shields.io/badge/Website-%233b5998.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://tommytran.me)
 
 ## ☕ Support
 
