@@ -55,8 +55,8 @@
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/tranthangportfolio/)
-- [Personal Website/Blog](https://tommytran.me)
+- ![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/tranthangportfolio/)
+- ![Website](https://img.icons8.com/color/30/000000/domain--v1.png) [Personal Website/Blog](https://tommytran.me)
 
 ## ☕ Support
 
