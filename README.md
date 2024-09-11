@@ -4,20 +4,15 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Project/Technology]
-- 💬 Ask me about [Technology/Experience]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🔭 I’m currently working on ![Your Project](https://github.com/TranThang-2804/crossplane-framework)
+- 📫 How to reach me: [tranthang.dev@gmail.com]
+- ⚡ Fun fact: [Vim Enthusiast]
 
 ## Skills
 
 - **Languages**: [Go, JS, TS, Java, Groovy]
 - **Frameworks**: [React, Nest, Cobra]
-- **IaC**: [Terraform, AWS CDK, Pulumi, Ansible, Helm, Cue]
+- **Infrastructure as Code**: [Terraform, AWS CDK, Cloudformation, Pulumi, Ansible, Helm, Cue]
 - **Scripting**: [Bash]
 - **CI Tools**: [Gitlab CI, Jenkins, AWS CodePipeline, Tekton, Buildah, Kaniko, Sysbox]
 - **CD Tools**: [ArgoCD, FluxCD]
@@ -34,7 +29,7 @@
 - **Storage**: [Elastic, Redis, Databases, Kafka]
 - **Other Tools**: [Keycloak, Karpenter, Kubecost, Kong, Nginx]
 
-=> Working more on Go -> Dev Framework
+- **Proficient**: [AWS, Terraform, CDK, Kubernetes, Networking, Observability, Go, TS]
 
 ## GitHub Stats
 
@@ -44,12 +39,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranThang-2804&layout=compact&theme=radical)
 
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website/Blog](https://tommytran.me)
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
@@ -58,10 +47,16 @@
 ## Projects
 
 - [Neovim Configuration](https://github.com/TranThang-2804/dotfiles): My neovim configuration with Nix
+- [Platform Engineering framework](https://github.com/TranThang-2804/crossplane-framework): Internal Platform Portal for Developers Framework
 
 ## Contributions
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TranThang-2804&theme=radical)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/tranthangportfolio/)
+- [Personal Website/Blog](https://tommytran.me)
 
 ## Support
 
