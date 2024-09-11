@@ -15,9 +15,26 @@
 
 ## Skills
 
-- **Languages**: [Languages you know]
-- **Frameworks**: [Frameworks you use]
-- **Tools**: [Tools you use]
+- **Languages**: [Go, JS, TS, Java, Groovy]
+- **Frameworks**: [React, Nest, Cobra]
+- **IaC**: [Terraform, AWS CDK, Pulumi, Ansible, Helm, Cue]
+- **Scripting**: [Bash]
+- **CI Tools**: [Gitlab CI, Jenkins, AWS CodePipeline, Tekton, Buildah, Kaniko, Sysbox]
+- **CD Tools**: [ArgoCD, FluxCD]
+- **Security/Code Coverage Tools**: [SonarQube, TruffleHog, Trivy, Nexus, BurpeSuite]
+- **Orchestration**: [Kubernetes, Docker]
+- **Dev Tools**: [Taskfile, Makefile, Husky, K3D, K3S, Tilt]
+- **Cloud**: [AWS, GCP]
+- **Platform Engineering**: [Crossplane, KubeVela, Backstage]
+- **Observability**: [Grafana stacks(Loki, Mimir, Grafane, Thanos), ELK, OpenTelemetry, DataDog, NewRelic, Dynatrace, Fluentbit, Jaeger]
+- **Service Mesh**: [Istio, Appmesh]
+- **OS**: [LINUX, NIXOS, ARCH]
+- **Stress Testing**: [K6, gattling]
+- **IDE**: [NEOVIM]
+- **Storage**: [Elastic, Redis, Databases, Kafka]
+- **Other Tools**: [Keycloak, Karpenter, Kubecost, Kong, Nginx]
+
+=> Working more on Go -> Dev Framework
 
 ## GitHub Stats
 
