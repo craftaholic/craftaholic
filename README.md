@@ -4,9 +4,9 @@
 
 ## 📌 About Me
 
-- 🔭 I’m currently working on [Your Project](https://github.com/TranThang-2804/crossplane-framework)
+- 🔭 I’m currently working on [This Project](https://github.com/TranThang-2804/k8s-pod-identity-controller)
 - 📫 How to reach me: [tranthang.dev@gmail.com]
-- ⚡ Fun fact: Vim Enthusiast
+- ⚡ Fun fact: I'm a Vim Enthusiast, Motorcyclist, Love to investigate/researching on new techstack 
 
 ## 💼 Skills
 
@@ -48,6 +48,7 @@
 
 - [Neovim Configuration](https://github.com/TranThang-2804/dotfiles): My neovim configuration with Nix
 - [Platform Engineering framework](https://github.com/TranThang-2804/crossplane-framework): Internal Platform Portal for Developers Framework
+- [K8s Controller For Cloud Role Integration](https://github.com/TranThang-2804/k8s-pod-identity-controller): K8s Controller For Cloud Role Integration - Written In Go
 
 ## 🎖 Contributions
 
@@ -57,6 +58,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthangportfolio/)
 - [![Website](https://img.shields.io/badge/Website-%233b5998.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://tommytran.me)
+- [![Blog](https://img.shields.io/badge/Website-%233b5998.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.tommytran.me)
 
 ## ☕ Support
 
