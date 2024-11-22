@@ -10,24 +10,20 @@
 
 ## 💼 Skills
 
-- **Languages**: Go, JS, TS, Java, Groovy
-- **Frameworks**: React, Nest, Cobra
-- **Infrastructure as Code**: Terraform, AWS CDK, Cloudformation, Pulumi, Ansible, Helm, Cue
+- **Languages**: Go, JS, TS
+- **Frameworks**: NestJS, Cobra
+- **Infrastructure as Code**: Terraform, AWS CDK, Cloudformation, Pulumi, Helm
 - **Scripting**: Bash
-- **CI Tools**: Gitlab CI, Jenkins, AWS CodePipeline, Tekton, Buildah, Kaniko, Sysbox
-- **CD Tools**: ArgoCD, FluxCD
-- **Security/Code Coverage Tools**: SonarQube, TruffleHog, Trivy, Nexus, BurpeSuite
+- **CI Tools**: Gitlab CI, Jenkins, AWS CodePipeline, Tekton, Buildah, Kaniko
+- **CD Tools**: ArgoCD
+- **Security/Code Coverage Tools**: SonarQube, TruffleHog, Trivy
 - **Orchestration**: Kubernetes, Docker
-- **Dev Tools**: Taskfile, Makefile, Husky, K3D, K3S, Tilt
 - **Cloud**: AWS, GCP
-- **Platform Engineering**: Crossplane, KubeVela, Backstage
-- **Observability**: Grafana stacks(Loki, Mimir, Grafane, Thanos), ELK, OpenTelemetry, DataDog, NewRelic, Dynatrace, Fluentbit, Jaeger
+- **Platform Engineering**: Crossplane, KubeVela
+- **Observability**: Grafana stacks(Loki, Mimir, Grafane, Thanos), OpenTelemetry, Fluentbit, Jaeger
 - **Service Mesh**: Istio, Appmesh
-- **OS**: LINUX, NIXOS, ARCH
-- **Stress Testing**: K6, gattling
-- **IDE**: NEOVIM
-- **Storage**: Elastic, Redis, Databases, Kafka
-- **Other Tools**: Keycloak, Karpenter, Kubecost, Kong, Nginx
+- **OS**: Linux, Nixos, Arch
+- **IDE**: Neovim
 
 - **Proficient**: [AWS, Terraform, CDK, Kubernetes, Networking, Observability, Go, TS]
 
