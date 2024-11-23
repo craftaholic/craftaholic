@@ -12,9 +12,9 @@
 
 - **Languages**: Go, JS, TS
 - **Frameworks**: NestJS, Cobra
-- **Infrastructure as Code**: Terraform, AWS CDK, Cloudformation, Pulumi, Helm
+- **Infrastructure as Code**: Terraform, AWS CDK, Cloudformation, Helm
 - **Scripting**: Bash
-- **CI Tools**: Gitlab CI, Jenkins, AWS CodePipeline, Tekton, Buildah, Kaniko
+- **CI Tools**: Gitlab CI, Jenkins, AWS CodePipeline, Tekton
 - **CD Tools**: ArgoCD
 - **Security/Code Coverage Tools**: SonarQube, TruffleHog, Trivy
 - **Orchestration**: Kubernetes, Docker
