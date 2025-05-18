@@ -4,7 +4,7 @@
 
 ## 📌 About Me
 
-- 🔭 I’m currently working on [This Project](https://github.com/dev2die/infrastructure-engine)
+- 🔭 I’m currently working on [Infrastructure Engine](https://github.com/dev2die/infrastructure-engine) which support self-service for IaC
 - 📫 How to reach me: [tommytrandt.work@gmail.com]
 - ⚡ Fun fact: I'm a Vim Enthusiast, Motorcyclist, Love to research on tech
 
