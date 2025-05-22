@@ -5,16 +5,14 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. I enjoy working on cutting-edge projects and doing R&D.
 
 ## 📌 About Me
+My major role is Platform Engineering in which I love to build internal platform solutions that help corporations to scale and maintain. With CS background and
+both Fullstack Dev and DevOps foundation. I mostly can do any any work related to SWE.
+
 I'm currently focused on developing the [Infrastructure Engine](https://github.com/craftaholic/infrastructure-engine), a project aimed at enhancing self-service capabilities for Infrastructure as Code (IaC). 
-
-My major role is Platform Engineering in which I love to build internal platform solutions that help corporation to scale and maintain. With CS background and
-both fullstack Dev and DevOps foundation. I mostly can do any any work related to SWE.
-
-I enjoy riding motorcycles and diving deep into tech research. I'm also a proud Vim enthusiast!
 
 Feel free to reach out to me at [tommytrandt.work@gmail.com] for any inquiries or collaborations.
 
-⚡ Fun fact: I'm a Vim Enthusiast, Motorcyclist, Love to research on tech
+⚡ Fun fact: I'm a Vim Enthusiast, Motor lover. 
 
 ### Programming Languages
 - **Go**
