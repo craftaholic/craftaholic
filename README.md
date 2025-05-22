@@ -2,27 +2,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=craftaholic&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for technology and innovation. I enjoy working on cutting-edge projects and exploring new tech trends.
-
----
+Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. I enjoy working on cutting-edge projects and doing R&D.
 
 ## 📌 About Me
-I'm currently focused on developing the [Infrastructure Engine](https://github.com/craftaholic/infrastructure-engine), a project aimed at enhancing self-service capabilities for Infrastructure as Code (IaC). In my free time, I enjoy riding motorcycles and diving deep into tech research. I'm also a proud Vim enthusiast!
+I'm currently focused on developing the [Infrastructure Engine](https://github.com/craftaholic/infrastructure-engine), a project aimed at enhancing self-service capabilities for Infrastructure as Code (IaC). 
+
+My major role is Platform Engineering in which I love to build internal platform solutions that help corporation to scale and maintain. With CS background and
+both fullstack Dev and DevOps foundation. I mostly can do any any work related to SWE.
+
+I enjoy riding motorcycles and diving deep into tech research. I'm also a proud Vim enthusiast!
 
 Feel free to reach out to me at [tommytrandt.work@gmail.com] for any inquiries or collaborations.
 
-Fun Fact: I love exploring new technologies and am always up for a challenge!
-
----
-- ⚡ Fun fact: I'm a Vim Enthusiast, Motorcyclist, Love to research on tech
+⚡ Fun fact: I'm a Vim Enthusiast, Motorcyclist, Love to research on tech
 
 ### Programming Languages
 - **Go**
 - **JavaScript (JS)**
 
 ### Frameworks
-- **NestJS**
-- **NextJS**
+- **NestJS** - **NextJS**
 - **Go-Chi**
 
 ### Infrastructure as Code
@@ -63,14 +62,10 @@ Fun Fact: I love exploring new technologies and am always up for a challenge!
 ### Proficient In
 - **AWS, Terraform, CDK, Kubernetes, Networking, Observability, Go, JS**
 
----
-
 - **Proficient**: [AWS, Terraform, CDK, Kubernetes, Networking, Observability, Go, JS]
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=craftaholic&show_icons=true&theme=radical)
 
 Stay tuned for more updates and contributions!
 
----
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=craftaholic&show_icons=true&theme=radical)
@@ -88,20 +83,6 @@ Here are some of the projects I've been working on:
 - **[IaC Self Service](https://github.com/craftaholic/infrastructure-engine)**: A new engine designed to enhance self-service capabilities, replacing KubeVela's Terraform integration.
 - **[K8s Controller For Cloud Role Integration](https://github.com/craftaholic/k8s-pod-identity-controller)**: A Kubernetes controller for seamless cloud role integration, developed in Go.
 
----
-
-- [Neovim Configuration](https://github.com/dev2die/dotfiles): My neovim configuration with Nix
-- [IaC Self Service](https://github.com/dev2die/infrastructure-engine): A totally new engine to replace kubevela terraform integration
-- [K8s Controller For Cloud Role Integration](https://github.com/dev2die/k8s-pod-identity-controller): K8s Controller For Cloud Role Integration - Written In Go
-
-## 🎖 Contributions
-Feel free to connect with me on these platforms:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthangportfolio/)
-- [![Website](https://img.shields.io/badge/Website-%233b5998.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://tommytran.me)
-- [![Blog](https://img.shields.io/badge/Blog-%233b5998.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.tommytran.me)
-
----
 ## 🌐 Connect with me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthangportfolio/)
